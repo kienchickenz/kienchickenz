@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Kien</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
-<p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kienchickenz&label=Profile%20views&color=0e75b6&style=flat" alt="kienchickenz" /> </p>
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 - 🔭 I’m currently working on **C++, Java**
 
