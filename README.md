@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Kien</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-
+<p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kienchickenz&label=Profile%20views&color=0e75b6&style=flat" alt="kienchickenz" /> </p>
 
+- 🔭 I’m currently working on **C++, Java**
+
+- 🌱 I’m currently learning **IntelliJ IDEA**
+
+- 💬 Ask me about **C++**
+
 - 📫 How to reach me **nguyenduckien2508@gmail.com**
+
+- ⚡ Fun fact **I am passionately curious about 3D objects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
