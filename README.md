@@ -1,3 +1,4 @@
+![MasterHead](https://colinvermander.files.wordpress.com/2018/11/alm-devops-banner-2.png)
 <h1 align="center">Hi 👋, I'm Nguyen Duc Kien</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 <img align = "right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
