@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Viet Nam</h3>
 <img align = "right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-- 🔭 I’m currently working on **C++, Java**
+- 🔭 I’m currently working on **C++, Java, Python**
 
 - 🌱 I’m currently learning **IntelliJ IDEA**
 
