@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **IntelliJ IDEA**
 
-- 💬 Ask me about **C++**
-
 - 📫 How to reach me **nguyenduckien2508@gmail.com**
 
 - ⚡ Fun fact **I am passionately curious about 3D objects**
